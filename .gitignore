@@ -1,0 +1,12 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfsate.backup
+
+# AWS
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
